@@ -1,0 +1,17 @@
+{
+  "name": "pvfm-service",
+  "version": "1.0.0",
+  "description": "Service for Portola Valley Farmers' Market Applicaiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Eric Foard",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.11",
+    "bluebird": "^3.3.5",
+    "hapi": "^13.4.0",
+    "joi": "^8.1.0"
+  }
+}
